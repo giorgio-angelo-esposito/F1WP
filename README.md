@@ -1,4 +1,4 @@
-# F1WP
+# F1WP - FORMULA 1 WINNER PREDICTION
 Repository per il progetto del corso di Fondamenti di Intelligenza Artificiale A.A. 2021/2022 di Giorgio Angelo Esposito. 
 Lo scopo del progetto è quello di utilizzare gli algoritmi di machine learning per provare a predire il vincitore di una
 gara di Formula 1. F1WP è infatti acronimo per Formula 1 Winner Prediction. 
